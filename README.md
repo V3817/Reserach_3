@@ -338,7 +338,7 @@ MIT License
 
 # Author
 
-Aryal Katkar
+Varun Ahari
 
 ---
 
